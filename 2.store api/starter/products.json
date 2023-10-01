@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Product 1",
+    "price": 10.99,
+    "company": "Company A",
+    "rating": 1
+  },
+  {
+    "name": "Product 2",
+    "price": 25.99,
+    "company": "Company B",
+    "rating": 1
+  },
+  {
+    "name": "Product 3",
+    "price": 19.99,
+    "company": "Company C",
+    "rating": 1
+  },
+  {
+    "name": "Product 4",
+    "price": 5.99,
+    "company": "Company A",
+    "rating": 1
+  },
+  {
+    "name": "Product 5",
+    "price": 8.49,
+    "company": "Company B",
+    "rating": 1
+  },
+  {
+    "name": "Product 6",
+    "price": 14.99,
+    "company": "Company C",
+    "rating": 1
+  },
+  {
+    "name": "Product 7",
+    "price": 29.99,
+    "company": "Company D",
+    "rating": 1
+  },
+  {
+    "name": "Product 8",
+    "price": 12.99,
+    "company": "Company A",
+    "rating": 1
+  },
+  {
+    "name": "Product 9",
+    "price": 7.99,
+    "company": "Company B",
+    "rating": 1
+  },
+  {
+    "name": "Product 10",
+    "price": 22.99,
+    "company": "Company C",
+    "rating": 1
+  }
+]
