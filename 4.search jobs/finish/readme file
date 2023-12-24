@@ -1,0 +1,56 @@
+Setup
+Jobs API
+Explain the purpose of the Jobs API in your project.
+
+Controllers and Routes Setup
+Describe how controllers and routes are structured in your application.
+
+Connect to Db
+Provide instructions on how to connect your application to the database.
+
+Schema Models
+Explain the schema models used in your project.
+
+Postman Setup
+Guide users on setting up Postman for testing your API.
+
+Development
+Hashing Passwords with bcryptjs
+Explain how passwords are hashed using bcryptjs.
+
+Mongoose Pre Save
+Describe the Mongoose pre-save functionality.
+
+Generate Token with JWT
+Provide details on how tokens are generated using JWT.
+
+Schema Methods
+Explain the schema methods implemented in your project.
+
+All Keys Generator and .env
+Guide users on generating keys and setting up the .env file.
+
+Auth Middleware
+Explain the authentication middleware used in your application.
+
+Mongoose ObjectId
+Describe the usage of Mongoose ObjectId in your project.
+
+Dynamically Setting Authorization Header
+Explain how to dynamically set the authorization header.
+
+Handling Mongoose Validation Errors
+Provide information on how Mongoose validation errors are handled.
+
+Security
+Discuss security measures implemented in your application.
+
+Hosting
+Provide information on how to host your application.
+
+Testing
+Postman Web Routes
+Explain how to test web routes using Postman.
+
+Swagger Documentation
+Guide users on accessing Swagger documentation.
