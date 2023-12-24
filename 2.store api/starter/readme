@@ -1,0 +1,106 @@
+# STORE API
+
+This project is a RESTful API for managing a store. It includes functionality for connecting to a database, setting up controllers and routes, and utilizing various features of Mongoose for filtering and sorting data.
+
+## Table of Contents
+
+1. [Express Setup](#express-setup)
+2. [Connect to Database](#connect-to-database)
+3. [Controllers and Routes Setup](#controllers-and-routes-setup)
+4. [Postman Setup](#postman-setup)
+5. [Express Async Errors](#express-async-errors)
+6. [Schema Models](#schema-models)
+7. [Automating Adding to Database](#automating-adding-to-database)
+8. [Mongoose Filter Methods](#mongoose-filter-methods)
+9. [Mongoose Sort Filter](#mongoose-sort-filter)
+10. [Mongoose Select Filter](#mongoose-select-filter)
+11. [Mongoose Skip and Limit Filter](#mongoose-skip-and-limit-filter)
+12. [Mongoose Numeric Filter](#mongoose-numeric-filter)
+
+## Express Setup
+
+Details on how Express is set up in the project.
+
+## Connect to Database
+
+Explanation of the process to connect the API to a database.
+
+## Controllers and Routes Setup
+
+Overview of setting up controllers and defining routes for the API.
+
+## Postman Setup
+
+Instructions on setting up Postman for testing the API.
+
+## Express Async Errors
+
+Utilizing `express-async-errors` for handling asynchronous errors.
+
+## Schema Models
+
+Description of the schema models used in the project.
+
+## Automating Adding to Database
+
+Explanation of automated processes for adding data to the database.
+
+## Mongoose Filter Methods
+
+Understanding and using Mongoose filter methods for data retrieval.
+
+## Mongoose Sort Filter
+
+Implementation of sorting data using Mongoose.
+
+## Mongoose Select Filter
+
+Utilizing Mongoose to selectively retrieve specific fields from the database.
+
+## Mongoose Skip and Limit Filter
+
+Explanation of skip and limit filters in Mongoose for pagination.
+
+## Mongoose Numeric Filter
+
+Handling numeric filters in Mongoose for precise data retrieval.
+
+## Getting Started
+
+Instructions on how to clone the repository and get the project running locally.
+
+## Prerequisites
+
+List of prerequisites and dependencies needed to run the project.
+
+## Installation
+
+Step-by-step guide on how to install and set up the project.
+
+## Usage
+
+Instructions on how to use the API and examples of requests.
+
+## Contributing
+
+Information for potential contributors, guidelines, and steps to contribute.
+
+## License
+
+Information about the project's license.
+
+## Acknowledgments
+
+Credits and acknowledgments for any third-party libraries or resources used in the project.
+
+## Author
+
+Your name and contact information.
+
+## Changelog
+
+List of changes and updates made to the project.
+
+## FAQ
+
+Frequently asked questions and their answers.
