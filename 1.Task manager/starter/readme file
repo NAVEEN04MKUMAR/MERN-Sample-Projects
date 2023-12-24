@@ -1,0 +1,83 @@
+Table of Contents
+
+Task Manager
+Express Setup
+Routes Folder
+Controllers Folder
+Postman Setup
+Rest API Explanation
+MongoDB Explanation and Setup
+Mongoose Connection
+Mongoose Schema
+Mongoose CRUD Operations
+Put vs Patch
+Different Response Style
+Route Not Found
+Async Wrappers for try/catch
+Catching Errors
+404 Custom Errors
+Port Variable Setting
+
+1. Task Manager
+Description of the task manager module.
+
+2. Express Setup
+Explanation of how Express is set up in the project.
+
+3. Routes Folder
+Overview of the project's routes folder and its purpose.
+
+4. Controllers Folder
+Information about the controllers folder and its role in the project.
+
+5. Postman Setup
+Instructions on setting up Postman for testing the API.
+
+6. Rest API Explanation
+An explanation of the REST API structure and endpoints.
+
+7. MongoDB Explanation and Setup
+Details about MongoDB, how it is used, and setup instructions.
+
+8. Mongoose Connection
+Explanation of how Mongoose is connected to the project.
+
+9. Mongoose Schema
+Details about the Mongoose schema used in the project.
+
+10. Mongoose CRUD Operations
+Description of CRUD operations using Mongoose.
+
+11. Put vs Patch
+Clarification on the differences between PUT and PATCH requests.
+
+12. Different Response Style
+Explanation of the different styles used for API responses.
+
+13. Route Not Found
+Handling of route not found scenarios.
+
+14. Async Wrappers for try/catch
+Usage of async wrappers for try/catch for asynchronous operations.
+
+15. Catching Errors
+Details on how errors are caught in the project.
+
+16. 404 Custom Errors
+Implementation of custom 404 errors.
+
+17. Port Variable Setting
+Explanation of how the port variable is set in the project.
+
+Getting Started
+Instructions on how to clone the repository and get the project running locally.
+
+Prerequisites
+List of prerequisites and dependencies needed to run the project.
+
+Installation
+Step-by-step guide on how to install and set up the project.
+
+Usage
+Instructions on how to use the project and any additional setup needed.
+
